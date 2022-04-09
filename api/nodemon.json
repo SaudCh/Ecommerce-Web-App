@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "shazil",
+    "DB_PASSWORD": "pass",
+    "DB_NAME": "ecommerce"
+  }
+}
